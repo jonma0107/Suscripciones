@@ -1,0 +1,23 @@
+** Situación problema: Liquidación servicio de suscripción a periódico
+
+Se tiene la información sobre los N suscriptores de un periódico con reconocimiento nacional, conociendo de cada uno de ellos el código, estado =(V=Vigente, S=Suspendido)= y la periodicidad contratada para el recibo del periódico =(1=Mensual, 2=Trimestral, 3=Semestral, 4= Anual)=. Se informa que, para el cálculo del valor a pagar del servicio de suscripción al periódico, se suministra las siguientes indicaciones:
+
+Si el suscriptor se encuentra en estado =S=Suspendido=, el valor a pagar por la suscripción del periódico es de cero =(0)=. Si el suscriptor se encuentra en estado =V=Vigente=, el valor de la suscripción depende de la siguiente tabla:
+
+Con la información suministrada, se pide elaborar un programa en Java que calcule:
+
+#+BEGIN_SRC
+Periodicidad   Valor a Pagar
+       1                $30.000
+       2                $70.000
+       3                $150.000
+       4                $270.000
++END_SRC
+
+*SALIDA:*
+
+- Valor por pagar por el servicio de suscripción de cada suscriptor.
+
+- Valor Total por pagar (De todos los suscriptores).
+
+- El programa debe utilizar el paradigma de la programación orientada a objeto
