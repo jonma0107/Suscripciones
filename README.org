@@ -4,15 +4,15 @@ Se tiene la información sobre los N suscriptores de un periódico con reconocim
 
 Si el suscriptor se encuentra en estado =S=Suspendido=, el valor a pagar por la suscripción del periódico es de cero =(0)=. Si el suscriptor se encuentra en estado =V=Vigente=, el valor de la suscripción depende de la siguiente tabla:
 
-Con la información suministrada, se pide elaborar un programa en Java que calcule:
-
 #+BEGIN_SRC
 Periodicidad   Valor a Pagar
-       1                $30.000
-       2                $70.000
-       3                $150.000
-       4                $270.000
+     1                $30.000
+     2                $70.000
+     3                $150.000
+     4                $270.000
 #+END_SRC
+
+Con la información suministrada, se pide elaborar un programa en Java que calcule:
 
 *SALIDA:*
 
