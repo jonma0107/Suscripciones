@@ -1,2 +1,2 @@
-* Salida del Programa>
+* Run: 
 [[https://i.ibb.co/pjs1xgq/salida.png]]
