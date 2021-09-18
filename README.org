@@ -1,6 +1,6 @@
-** Situación problema: Liquidación servicio de suscripción a periódico
+** Descripción del problema: Liquidación servicio de suscripción a periódico
 
-Se tiene la información sobre los N suscriptores de un periódico con reconocimiento nacional, conociendo de cada uno de ellos el código, estado =(V=Vigente, S=Suspendido)= y la periodicidad contratada para el recibo del periódico =(1=Mensual, 2=Trimestral, 3=Semestral, 4=Anual)=. Se informa que, para el cálculo del valor a pagar del servicio de suscripción al periódico, se suministra las siguientes indicaciones:
+Se tiene la información sobre los N suscriptores de un periódico, conociendo de cada uno de ellos el código, estado =(V=Vigente, S=Suspendido)= y la periodicidad contratada para el recibo del periódico =(1=Mensual, 2=Trimestral, 3=Semestral, 4=Anual)=. Se informa que, para el cálculo del valor a pagar del servicio de suscripción al periódico, se suministra las siguientes indicaciones:
 
 Si el suscriptor se encuentra en estado =S=Suspendido=, el valor a pagar por la suscripción del periódico es de cero =(0)=. Si el suscriptor se encuentra en estado =V=Vigente=, el valor de la suscripción depende de la siguiente tabla:
 
